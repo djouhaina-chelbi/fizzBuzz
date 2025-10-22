@@ -1,4 +1,4 @@
-def test_fizzbuuzz(n):
+def test_fizzbuzz(n):
     fizzbuzz(0)
 
 def fizzbuzz(n):
